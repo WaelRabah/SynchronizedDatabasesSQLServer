@@ -1,0 +1,14 @@
+.table
+{
+
+    margin-bottom: 15px;
+}
+tr
+{
+    display: table-row;
+}
+td
+{
+    display: table-column;
+    
+}
